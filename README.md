@@ -1,4 +1,4 @@
-# XXX collection
+# archaeological-priority-area collection
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/archaeological-priority-area-collection/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/XXX-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/archaeological-priority-area-collection/actions/workflows/run.yml)
